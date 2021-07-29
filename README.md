@@ -3,6 +3,10 @@ ResNet-18 model for image classification of COVID-19 chest x-ray images in PyTor
 
 Custom Dataset and Dataloader.
 
+Coursera guided project. Credential URL: 
+https://www.coursera.org/account/accomplishments/certificate/P4BEKB83KK7H
+
+
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 
